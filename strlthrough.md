@@ -1,0 +1,1 @@
+You should start the app with \~~_**start**_~~ _**go**_.
