@@ -1,6 +1,6 @@
 Groceries:
 
-- [] Beets
-- [] Roots
+- [ ] Beets
+- [ ] Roots
 - [x] Carrots
-- [] Mushrooms
+- [ ] Mushrooms
